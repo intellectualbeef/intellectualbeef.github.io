@@ -49,7 +49,7 @@
 
      // backstretch active here 
      $(".boss-home-area").backstretch([
-            "../Final_Project/mainface.jpg"
+            "mainface.jpg"
           ]);
 
      // countdown
