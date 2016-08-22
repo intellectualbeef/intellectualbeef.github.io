@@ -1,5 +1,5 @@
 body {
-    background-color: #BDBDBD
+    bbackground-color: #7B7B7B;
     text-align:center;
 
 }
@@ -19,33 +19,41 @@ h1{
     font-family:Verdana;
 }
 
-/* GREEN FOR THE TOP TEXT */
+/* Light purple 
 h3{
     text-align:center;
-    color:#89D06A;
-    font-size:75px;
+    color:#7B7B7B;
+    font-size:25px;
     font-family:Verdana;
 }
-
+*/
 /* PURPLE TEXT AS TITLE*/
  h2, h4, h5, h6, body {
+    padding-right: 90px;
+    padding-left: 90px;
     text-align:center;
-    color:#8C6576;
-    font-size:70px;
-    font-family:Verdana;
+    color:#9B0041;
+    font-size:50px;
+    font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* GREEN SUBTEXT */
+/* pink? 
  h7, h8 {
     text-align:center;
-    color:#89D06A;
+    color:#8C6576;
     font-size:45px;
     font-family:Verdana;
-}
 
+
+    
+
+}
+*/
 p {
     text-align:center;
-    color:#efa5a5;
+    color:#7B7B7B;
     font-size:25px;
     font-family:Verdana;
 
